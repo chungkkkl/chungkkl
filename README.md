@@ -7,7 +7,6 @@
 - Dự án :
 - # 📂 Dự án tiêu biểu: Hệ thống Quản lý Tiệm Net (Net Manager)
 *Dự án phối hợp cùng nhóm 5 thành viên tại FPT Polytechnic*
-
 ### 🛠 Trách nhiệm chính của mình:
 - **Quản lý Menu & Dịch vụ:** Thiết kế cơ sở dữ liệu và viết logic cho hệ thống gọi món, quản lý kho đồ ăn/thức uống tại quán.
 - **Quản lý Máy tính (Client Management):** Xây dựng module theo dõi trạng thái máy (Đang trống/Có khách), tính giờ chơi và quản lý nạp tiền tài khoản.
@@ -23,7 +22,6 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=nodesdotjs&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-
 ### 🎨 Frontend & Design
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
@@ -34,9 +32,6 @@
 ### 🧪 Testing & Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-
----
-
 # 📊 Thống kê hoạt động
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=chungkkkl&show_icons=true&theme=radical&count_private=true" />
@@ -46,14 +41,11 @@
 <p align="center">
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=chungkkkl&theme=radical" />
 </p>
-
----
-
 # 🤝 Kết nối với mình
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/)
 [![Zalo](https://img.shields.io/badge/Zalo-0068FF?style=for-the-badge&logo=Zalo&logoColor=white)](https://zalo.me/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-
----
+### 📲 Quét mã để kết nối với mình:
+![QR Code](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/chungkkkl)
 *“Học, học nữa, học mãi - Từ Coder đến kĩ sư phần cứng!”*"https://github-readme-stats.vercel.app/api/top-langs/?username=chungkkkl&layout=compact&theme=radical" alt="Top Langs" />
 </p>
