@@ -41,11 +41,13 @@
 <p align="center">
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=chungkkkl&theme=radical" />
 </p>
-# 🤝 Kết nối với mình
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/)
-[![Zalo](https://img.shields.io/badge/Zalo-0068FF?style=for-the-badge&logo=Zalo&logoColor=white)](https://zalo.me/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-### 📲 Quét mã để kết nối với mình:
+#  Kết nối với mình
+[![Zalo](https://img.shields.io/badge/Zalo-0068FF?style=for-the-badge&logo=Zalo&logoColor=white)](https://zalo.me/0357059078)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tranchungthpytn@gmail.com)
+
+### 📲 Quét mã để truy cập nhanh Hồ sơ của mình:
 ![QR Code](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/chungkkkl)
+
 *“Học, học nữa, học mãi - Từ Coder đến kĩ sư phần cứng!”*"https://github-readme-stats.vercel.app/api/top-langs/?username=chungkkkl&layout=compact&theme=radical" alt="Top Langs" />
 </p>
